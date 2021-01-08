@@ -1,2 +1,1 @@
-# nextjs-image-max-age
-Demonstrating a bug in nextjs in image component
+This is a starter template for [Learn Next.js](https://nextjs.org/learn).
